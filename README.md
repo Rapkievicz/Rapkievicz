@@ -2,12 +2,6 @@
 
 My name is Luís Rapkievicz and I'm a Java developer. 
 
-### 🔭 I’m currently working on ...
-
-
-### 🌱 I’m currently learning ...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-
 <div>
 <a href="https://github.com/rapkievicz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapkievicz&layout=compact&langs_count=7&theme=dracula"/>
