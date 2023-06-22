@@ -14,7 +14,7 @@ My name is Luís Rapkievicz and I'm a Java developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rapkievicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/rapkievicz/rapkievicz/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rapkievicz/rapkievicz/blob/output/github-contribution-grid-snake.svg)-->
           
 ## Connect with me
 
