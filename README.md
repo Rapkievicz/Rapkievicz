@@ -1,8 +1,10 @@
 # 👋 Hello ! Welcome to my Github profile
 
 My name is Luís Rapkievicz and I'm a Java developer. 
+I'm currently working with backend development of RESTful APIs for SaaS applications, using Spring Framework and Oracle and SQL Server relational databases
 
 Meu nome é Luís Rapkievicz e sou um programador Java.
+Atualmente estou trabalhando com desenvovimento backend de APIs RESTful para aplicações SaaS, utilizando Spring Framework e bancos de dados relacionais Oracle e SQL Server.
 
 <!--
 <div>
